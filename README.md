@@ -2,7 +2,7 @@
 
 
 
-This project was developed in collaboration with https://github.com/giovanni6inve , https://github.com/peppevenezia , https://github.com/alecac96
+This project was developed in collaboration with https://github.com/giovanni6inve , https://github.com/Sebastian-Gerletti , https://github.com/alecac96
 
 ## Aim of the project
 
@@ -103,15 +103,5 @@ Regardless of this the pretrained model is uploaded for online application on ne
 
 </figure>
 
-## Instructions
-* Connect the PSoC with thr 11 sensors properly conditioned and the LED to any USB port of the PC 
-* Open the Command Prompt from `AAY2022_I_Project-2`
-* Run the following lines:
 
-        cd GUI_Python
-        python plot_data_line.py User002
-
-* Be seated before pressing "start" from the GUI since the calibrations is performed automatically in the first 4.5s
-
-Notice: GUI_python is the Vinrtual Environment with all the libraries in `requirements.txt` so these libraries must be installed in the environment from which these codes are being launched from.
 
